@@ -1,4 +1,5 @@
 # Frontend Mentor - News homepage
+a news outlet homepage using vanilla CSS
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
